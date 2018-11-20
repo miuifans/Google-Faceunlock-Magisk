@@ -1,0 +1,7 @@
+id=GoogleFaceUnlock
+name=Google Faceunlock
+version=v9.0.arm
+versionCode=1
+author=Jiaming Wu
+description=Add the faceunlock function based on Pico-GApps of Android 9.0 arm，extracted from Nano GApps.
+minMagisk=1700
